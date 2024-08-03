@@ -1,4 +1,11 @@
-# Like_Girl V5.1.0
+# 情侣秀恩爱
+
+技术栈：
+
+
+
+基于Like_Girl V5.1.0改造，原作者@kiCode111（gitee）（https://gitee.com/kiCode111/LikeGirl_5.1.0）
+以下是原作者readme⬇⬇⬇⬇⬇
 
 > 没有开玩笑 我又更新了...
 
