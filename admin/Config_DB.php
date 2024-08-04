@@ -24,13 +24,13 @@ $db_address = "localhost";
 $db_username = "root";
 
 //数据库密码
-$db_password = "123456";
+$db_password = "x15622800709";
 
 //数据库表名
-$db_name = "LikeGirl20240612";
+$db_name = "love_hzy";
 
 //敏感信息修改安全码 建议设置复杂一些
-$Like_Code = "Love";
+$Like_Code = "xlf_love_hzy";
 
 //版本号
-$version = 20240612;
+$version = 20240810;
